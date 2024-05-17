@@ -1,4 +1,4 @@
-Aim Trainer Game README
+Aim Trainer Game 
 
 Description:
 This Python script implements a simple aim trainer game using the Pygame library.
